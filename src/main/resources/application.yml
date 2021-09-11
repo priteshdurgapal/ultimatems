@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: utlimatems
+  h2:
+    console:
+      enabled: true
